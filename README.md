@@ -1,5 +1,9 @@
 # Unintrusive bind press
 
+![](https://img.shields.io/github/v/release/DyaMetR/unintrusive-bind-press)
+![](https://img.shields.io/github/issues-raw/DyaMetR/unintrusive-bind-press)
+![](https://img.shields.io/github/license/DyaMetR/unintrusive-bind-press)
+
 ## A solution to breaking other addons using the mouse wheel
 
 ### How to install
